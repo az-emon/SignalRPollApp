@@ -1,4 +1,4 @@
-# SignalRPollApp
+# SignalR Poll App
 Basic Asp .net core signalR project
 
 ## Add SignalR Js Library
